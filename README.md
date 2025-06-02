@@ -47,7 +47,7 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
 </div>
 
 
-## 📫 How to Reach Me
+## 📫 Connect with me!
 
 - LinkedIn: [Mingjia "Jacky" Guan](https://www.linkedin.com/in/mingjia-jacky-guan/)
 
