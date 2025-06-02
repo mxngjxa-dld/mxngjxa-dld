@@ -5,7 +5,7 @@
 Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, neural networks, and data engineering. Currently working as a Machine Learning Engineer at [Deledao Technologies](deledao.com). Trilingual professional passionate about creating impactful contributions to society through data science and machine learning solutions.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxngjxa&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxngjxa-dld&layout=compact&theme=onedark" alt="Top Languages" />
 </div>
 
 ## 🛠️ Technical Skills
@@ -26,11 +26,11 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mxngjxa&theme=onedark" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mxngjxa-dld&theme=onedark" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mxngjxa-dld&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
 </div>
 
-[![Jacky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mxngjxa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jacky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mxngjxa-dld&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🏆 Certifications
